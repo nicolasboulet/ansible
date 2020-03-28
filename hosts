@@ -1,2 +1,9 @@
-[all]
+[centos]
 centos1
+centos2
+centos3
+
+[ubuntu]
+ubuntu1
+ubuntu2
+ubuntu3
